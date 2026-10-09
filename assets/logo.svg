@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">RyzeMCBE — Fox Dev Emblem</title>
+  <desc id="desc">Geometric orange fox emblem on a midnight blue square with subtle code-inspired accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111C2F"/><stop offset="1" stop-color="#060A13"/></linearGradient>
+    <linearGradient id="fur" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#FFB15A"/><stop offset="0.43" stop-color="#FF791F"/><stop offset="1" stop-color="#D94C13"/></linearGradient>
+    <linearGradient id="muzzle" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#CBD8E8"/></linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F97316"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="url(#bg)"/>
+  <rect x="17" y="17" width="478" height="478" rx="90" fill="none" stroke="url(#stroke)" stroke-opacity=".55" stroke-width="3"/>
+  <path d="M52 253l31-36v26l-13 13 13 13v26z M460 253l-31-36v26l13 13-13 13v26z" fill="#3F6086" opacity=".65"/>
+  <path d="M114 92l102 67-56 105-49-47z" fill="url(#fur)"/>
+  <path d="M398 92l-102 67 56 105 49-47z" fill="url(#fur)"/>
+  <path d="M138 130l48 36-36 58-15-30z M374 130l-48 36 36 58 15-30z" fill="#26304A"/>
+  <path d="M155 180l101-44 101 44 30 69-43 104-88 63-88-63-43-104z" fill="url(#fur)"/>
+  <path d="M155 180l101-44v214l-88 3-43-104z" fill="#FF982E" opacity=".7"/>
+  <path d="M357 180l-101-44v214l88 3 43-104z" fill="#DE5A17" opacity=".48"/>
+  <path d="M169 245l70 19-38 20-35-12z M343 245l-70 19 38 20 35-12z" fill="#10192A"/>
+  <path d="M137 285l67 38 52 14 52-14 67-38-31 68-88 63-88-63z" fill="url(#muzzle)"/>
+  <path d="M256 337l52-14-52 93z" fill="#BFCADA" opacity=".58"/>
+  <path d="M230 325h52l-26 29z" fill="#121C2F"/>
+  <path d="M245 330h16" stroke="#66778F" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="403" cy="112" r="4" fill="#FFB15A" opacity=".9"/>
+  <circle cx="95" cy="368" r="3" fill="#3BCDF2" opacity=".7"/>
+</svg>
