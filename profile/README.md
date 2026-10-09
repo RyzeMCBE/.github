@@ -1,224 +1,102 @@
 <div align="center">
 
-<img src="https://github.com/RyzeMCBE.png?size=220" width="180" alt="RyzeMCBE Logo">
+<img src="https://raw.githubusercontent.com/RyzeMCBE/.github/main/assets/banner.svg" width="100%" alt="RyzeMCBE Development Studio — Engineering software. Creating experiences.">
 
-# RyzeMCBE
-
-### Development Studio & Software Engineering
-
-**Building software, creating experiences, empowering developers.**
-
-Somos un estudio de desarrollo enfocado en crear soluciones tecnológicas, herramientas y experiencias digitales mediante ingeniería de software.
-
-<br>
+<br><br>
 
 [![Development Studio](https://img.shields.io/badge/Development-Studio-6366f1?style=for-the-badge)](https://github.com/RyzeMCBE)
 [![Software Engineering](https://img.shields.io/badge/Software-Engineering-2563eb?style=for-the-badge)](https://github.com/RyzeMCBE)
+[![Minecraft Bedrock](https://img.shields.io/badge/Minecraft-Bedrock-F97316?style=for-the-badge)](https://github.com/RyzeMCBE)
 [![Open Source](https://img.shields.io/badge/Open-Source-22c55e?style=for-the-badge)](https://github.com/RyzeMCBE)
 
-<br>
+**Innovation · Engineering · Performance · Community**
 
-**Innovation • Engineering • Performance • Community**
+[Explorar repositorios](https://github.com/orgs/RyzeMCBE/repositories) · [Identidad visual](https://github.com/RyzeMCBE/.github/blob/main/assets/BRANDING.md)
 
 </div>
 
 ---
 
-## 🦊 Sobre nosotros
+## 🦊 Sobre RyzeMCBE
 
-**RyzeMCBE** es un **Development Studio** dedicado al diseño, desarrollo y mantenimiento de soluciones de software.
+**RyzeMCBE** es un **Development Studio** nacido del ecosistema de RyzeMC. Diseñamos, desarrollamos y mantenemos soluciones de software, herramientas para desarrolladores e infraestructura para servidores de videojuegos.
 
-Nuestra organización nace del ecosistema de **RyzeMC**, con la visión de construir tecnologías modernas, eficientes y escalables.
+Nuestro enfoque combina **código mantenible, rendimiento, innovación y colaboración**. Aunque nuestro trabajo parte del ecosistema de Minecraft Bedrock, nuestra visión abarca la ingeniería de software y la automatización.
 
-Nos especializamos en el desarrollo de infraestructura para servidores de videojuegos, herramientas para desarrolladores, sistemas personalizados y proyectos de código abierto.
+## 🎯 Misión y visión
 
-Buscamos transformar ideas en soluciones funcionales, aplicando buenas prácticas de ingeniería y manteniendo un compromiso constante con la calidad del software.
-
-### 🎯 Nuestra misión
-
-Desarrollar tecnologías innovadoras, estables y accesibles que permitan a desarrolladores, comunidades y proyectos digitales construir mejores experiencias.
-
-### 🔭 Nuestra visión
-
-Consolidar RyzeMCBE como un estudio de desarrollo reconocido por la calidad de sus proyectos, la innovación tecnológica y sus contribuciones al ecosistema de software.
-
----
+| 🚀 Nuestra misión | 🔭 Nuestra visión |
+| --- | --- |
+| Desarrollar tecnologías eficientes, estables y accesibles que permitan a comunidades y desarrolladores construir mejores experiencias. | Consolidar un estudio reconocido por la calidad de su ingeniería, la innovación y sus aportes al desarrollo de software. |
 
 ## 💻 Áreas de desarrollo
 
-Nuestro trabajo se organiza en diferentes áreas tecnológicas.
+| División | Enfoque |
+| --- | --- |
+| 🎮 **Game Server Development** | Software para servidores, protocolos, compatibilidad multiversión y mecánicas personalizadas. |
+| 🧩 **Software Engineering** | APIs, bibliotecas, arquitectura modular, persistencia y rendimiento. |
+| 🛠️ **Developer Tools** | Depuración, compilación, CI/CD, automatización y documentación. |
+| 🤖 **AI & Automation** | Investigación en agentes inteligentes, automatización e integración de modelos. |
 
-### 🎮 Game Server Development
+## 🧭 Proyectos y líneas de trabajo
 
-Desarrollo y mantenimiento de software para servidores de videojuegos.
+### 🎮 Minecraft Bedrock & Server Engineering
 
-- Implementaciones y modificaciones de servidores.
-- Arquitecturas multiversión.
-- Sistemas de comunicación cliente-servidor.
-- Optimización de rendimiento.
-- Desarrollo de funcionalidades personalizadas.
-- Herramientas de administración y gestión.
+Trabajamos en soluciones relacionadas con **PocketMine-MP**, **Allay**, plugins y sistemas personalizados:
 
-### 🧩 Software Engineering
+- Adaptaciones de protocolos y compatibilidad multiversión.
+- Mejoras en entidades, bloques, inventarios y dimensiones.
+- Optimización de estabilidad, seguridad y rendimiento.
+- Herramientas de administración y mecánicas para servidores.
 
-Diseño e implementación de soluciones de software.
+### 📦 Repositorios destacados
 
-- Arquitecturas modulares y escalables.
-- Desarrollo de APIs y bibliotecas.
-- Sistemas de persistencia y bases de datos.
-- Procesamiento asíncrono.
-- Refactorización y mantenimiento.
-- Automatización de procesos.
+Los proyectos públicos se irán destacando aquí conforme estén disponibles y documentados.
 
-### 🛠️ Developer Tools
+| Recurso | Descripción | Acceso |
+| --- | --- | --- |
+| **RyzeMCBE / .github** | Perfil oficial, identidad visual y documentación de la organización. | [Ver repositorio](https://github.com/RyzeMCBE/.github) |
+| **Catálogo de repositorios** | Explora los proyectos que estén publicados oficialmente. | [Explorar](https://github.com/orgs/RyzeMCBE/repositories) |
 
-Creación de herramientas que faciliten el trabajo de otros desarrolladores.
+> [!NOTE]
+> Las líneas de trabajo no implican que todos sus proyectos o códigos fuente estén publicados.
 
-- Frameworks y componentes reutilizables.
-- Herramientas de depuración.
-- Sistemas de compilación.
-- Automatización mediante CI/CD.
-- Utilidades para servidores.
-- Documentación técnica.
+## 🧠 Principios de ingeniería
 
-### 🤖 Artificial Intelligence & Automation
+| Principio | Compromiso |
+| --- | --- |
+| ⚡ **Performance** | Evitar trabajo innecesario, latencia y consumo excesivo de recursos. |
+| 🧱 **Architecture** | Sistemas claros, modulares y preparados para evolucionar. |
+| 🔒 **Reliability** | Pruebas, seguridad y estabilidad antes de producción. |
+| 🔬 **Innovation** | Explorar soluciones y nuevas tecnologías con criterio técnico. |
+| 📖 **Open Source** | Compartir recursos y conocimientos cuando los proyectos lo permitan. |
+| 🤝 **Collaboration** | Revisiones y contribuciones constructivas. |
 
-Exploración e integración de sistemas inteligentes.
+## 🤝 Contribuir
 
-- Agentes inteligentes.
-- Automatización de tareas.
-- Sistemas de comportamiento para entidades.
-- Integración de modelos de lenguaje.
-- Herramientas de asistencia para administradores.
+Agradecemos reportes de errores, documentación, propuestas y pull requests en los repositorios que acepten contribuciones. Antes de enviar cambios, revisa sus normas y el estado del proyecto.
 
----
-
-## 🚀 Nuestro ecosistema
-
-Actualmente, nuestro desarrollo técnico se concentra especialmente en el ecosistema **Minecraft Bedrock Edition**.
-
-### PocketMine-MP Development
-
-Desarrollo de modificaciones y mejoras para PocketMine-MP.
-
-**Áreas de trabajo:**
-- Compatibilidad multiversión.
-- Implementación de protocolos.
-- Sistemas de entidades y bloques.
-- Optimización de rendimiento.
-- Mejoras de estabilidad.
-- Nuevas funcionalidades.
-
-### Allay Development
-
-Investigación, mantenimiento y desarrollo de funcionalidades para servidores basados en Allay.
-
-**Áreas de trabajo:**
-- Compatibilidad con nuevas versiones.
-- Gestión de mundos y dimensiones.
-- Implementaciones de mecánicas.
-- Mejoras de rendimiento.
-- Correcciones de errores.
-
-### Plugins & Custom Systems
-
-Desarrollo de componentes y sistemas personalizados para servidores.
-
-**Áreas de trabajo:**
-- Sistemas de modalidades.
-- Administración y moderación.
-- Mecánicas PvP.
-- Sistemas de protección.
-- Herramientas de gestión.
-- Integraciones con servicios externos.
-
----
-
-## 🧠 Nuestra filosofía
-
-En **RyzeMCBE** creemos que el desarrollo de software debe basarse en principios sólidos.
-
-| Principio | Descripción |
-|---|---|
-| ⚡ Performance | Diseñar soluciones eficientes y optimizadas. |
-| 🧱 Architecture | Construir sistemas modulares y mantenibles. |
-| 🔒 Reliability | Priorizar la estabilidad y seguridad. |
-| 🔬 Innovation | Investigar e implementar nuevas tecnologías. |
-| 📖 Open Source | Compartir conocimientos y herramientas. |
-| 🤝 Collaboration | Impulsar el aprendizaje y el desarrollo colaborativo. |
-
-Nuestro objetivo no es solamente crear funcionalidades, sino desarrollar tecnologías que puedan evolucionar y mantenerse a largo plazo.
-
----
-
-## 📦 Nuestros proyectos
-
-Los proyectos públicos de RyzeMCBE estarán disponibles en nuestros repositorios oficiales.
-
-Cada repositorio contará progresivamente con su propia documentación, instrucciones de instalación, información de compatibilidad y estado de desarrollo.
-
-<div align="center">
-
-### 🔎 Explore Our Projects
-
-[![GitHub Repositories](https://img.shields.io/badge/Explore-Our%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/RyzeMCBE/repositories)
-
-</div>
-
----
-
-## 🤝 Contribuciones
-
-Creemos en el valor de la colaboración y el intercambio de conocimientos.
-
-Los desarrolladores interesados podrán contribuir a los proyectos que habiliten colaboraciones externas.
-
-Las contribuciones pueden incluir:
-
-- Reportes de errores.
-- Propuestas de funcionalidades.
-- Mejoras de rendimiento.
-- Correcciones de código.
-- Documentación.
-- Pruebas y validaciones.
-
-Antes de contribuir, revisa las instrucciones y condiciones de cada repositorio.
-
----
-
-## 📬 Contacto y comunidad
-
-¿Tienes una propuesta, deseas colaborar o quieres conocer nuestros proyectos?
-
-Puedes explorar nuestra organización y utilizar los canales de comunicación habilitados en nuestros repositorios.
-
-**GitHub:** https://github.com/RyzeMCBE
-
----
-
-## ⚠️ Estado de desarrollo
+Para problemas de servidores Minecraft, incluye la versión del cliente, el protocolo, los pasos para reproducirlo y los logs pertinentes, evitando compartir secretos o datos privados.
 
 > [!IMPORTANT]
-> RyzeMCBE es un estudio de desarrollo en crecimiento. Nuestros proyectos pueden encontrarse en diferentes etapas de investigación, implementación y pruebas.
->
-> Recomendamos revisar el estado y la documentación de cada repositorio antes de utilizar sus componentes en entornos de producción.
+> Nuestros proyectos pueden estar en distintas fases de desarrollo. Consulta los requisitos, la compatibilidad y las instrucciones de cada repositorio antes de utilizarlos en producción.
 
 ---
 
 <div align="center">
 
-### 🦊 RyzeMCBE Development Studio
+<img src="https://raw.githubusercontent.com/RyzeMCBE/.github/main/assets/logo.svg" width="92" alt="RyzeMCBE fox emblem">
+
+### RyzeMCBE Development Studio
 
 **Engineering the future, one project at a time.**
 
-Construyendo tecnología con pasión, innovación y dedicación.
+[GitHub](https://github.com/RyzeMCBE) · [Proyectos públicos](https://github.com/orgs/RyzeMCBE/repositories)
+
+<sub>Made with 🧡 by RyzeMCBE · Independent Development Studio</sub>
 
 <br>
 
-Made with 🧡 by **RyzeMCBE**
-
-<sub>Independent Development Studio · Open Source & Software Engineering</sub>
-
-<sub>Minecraft es una marca de Mojang Studios. RyzeMCBE es un proyecto independiente y no está afiliado con Mojang Studios ni Microsoft.</sub>
+<sub>Proyecto independiente; no afiliado con Mojang Studios ni Microsoft. Minecraft es una marca de Mojang Studios.</sub>
 
 </div>
